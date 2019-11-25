@@ -1,0 +1,15 @@
+current directory: /Users/taka/serverless_sample/vendor/bundle/ruby/2.5.0/gems/bindex-0.8.1/ext/skiptrace
+/Users/taka/.rbenv/versions/2.5.0/bin/ruby -r ./siteconf20191125-96675-8ls2kv.rb extconf.rb
+creating Makefile
+
+current directory: /Users/taka/serverless_sample/vendor/bundle/ruby/2.5.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /Users/taka/serverless_sample/vendor/bundle/ruby/2.5.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.bundle
+
+current directory: /Users/taka/serverless_sample/vendor/bundle/ruby/2.5.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20191125-96675-2a1upl/skiptrace/internal
